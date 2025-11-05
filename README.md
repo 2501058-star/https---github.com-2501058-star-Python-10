@@ -1,6 +1,6 @@
 # 파이썬 프로그래밍 실습 (Python-10)
 
-## 5주차 과제: 딕셔너리 (Dictionary)
+## 10주차 과제: 딕셔너리 (Dictionary)
 
 
 -   **과제 #25:** `input().split()`과 `dict(zip())`을 이용한 딕셔너리 생성
